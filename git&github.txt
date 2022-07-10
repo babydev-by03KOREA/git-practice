@@ -41,3 +41,6 @@ git merge (합칠 branch명) -> 완료.
 
 너무벅차다 merge걍 안할래요..
 git merge --abort
+
+너무벅차네.. rebase도 못하겠어요..
+git rebase --abort
