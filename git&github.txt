@@ -1,4 +1,4 @@
-VCS - GIT & GITHUB
+VCS - GIT & GITHUB by https://www.yalco.kr/@git-github/0-1/
 
 git init -> 이 파일을 깃이 관리할 수 있도록 해주세요.
 .git을 지우면 시간을 되돌릴수 없어요.. 즉, Git관리내역들이 사라집니다.
