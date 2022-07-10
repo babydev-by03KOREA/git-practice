@@ -22,6 +22,9 @@ git revert --hard (돌아갈 커밋 해시)
 터미널에서 그래픽하게 확인하기!
 git log --all --decorate --oneline --graph
 
+branch 이동하기
+git switch (이동하고싶은 branch명)
+
 ** merge는 끼어들기 / rebase는 합치기! **
 
 merge로 브랜치 합치기
