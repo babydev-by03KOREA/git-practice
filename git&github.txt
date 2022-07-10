@@ -13,5 +13,8 @@ git status -> 현재 폴더의 상황을 깃의 관점에서 보여줍니다.
 
 git diff명령어를 사용하면 보다 자세하게 변경사항을 볼 수 있습니다. y는 up, k는 down key
 
+과거 그대로 돌아가기
 git reset --hard (돌아갈 커밋 해시)
 
+이미 있는 코드에 과거 내역 덮어쓰기
+git revert --hard (돌아갈 커밋 해시)
