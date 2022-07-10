@@ -44,3 +44,6 @@ git merge --abort
 
 너무벅차네.. rebase도 못하겠어요..
 git rebase --abort
+
+rebase는 한번으로 해결되지 않을 수 있어요. 그러면..
+git add . (타임캡슐에 기록해줘) -> git rebase --continue
