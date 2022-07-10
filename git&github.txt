@@ -38,3 +38,6 @@ merge와 반대로 합치고 싶은 브랜치로 먼저 이동합니다.
 브랜치를 이동했다면 git rebase (합칠 branch명)
 다시 합쳐질(main)으로 이동해서 git merge (이 branch와 합치고 싶은 branch명)
 git merge (합칠 branch명) -> 완료.
+
+너무벅차다 merge걍 안할래요..
+git merge --abort
